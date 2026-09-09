@@ -4,15 +4,13 @@
 
 ### Full Stack Developer
 
-**Frontend • Backend • UI/UX • DevOps**
+**UI/UX • Frontend • Backend • Mobile (React Native)**
 
-Building modern web applications from **design to deployment**.
+Building modern, scalable, and user-focused digital experiences.
 
 <br>
 
-<!-- Main Stack -->
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,nodejs,nestjs,express,laravel,go,postgresql,mysql,prisma,docker,jenkins,git,github,linux,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,nodejs,nestjs,express,laravel,go,postgresql,mysql,prisma,docker,jenkins,git,github,figma" />
 
 <br><br>
 
@@ -30,22 +28,210 @@ Building modern web applications from **design to deployment**.
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
+
+I'm a **Computer Science graduate** with a strong interest in
+**Full Stack Development, Frontend Engineering, UI/UX Design,
+Backend Systems, DevOps, Web Security, and Artificial Intelligence.**
+
+I enjoy building applications across the development lifecycle,
+from designing interfaces and user experiences to developing
+frontend applications, backend services, databases, APIs,
+security implementations, and deployment workflows.
+
+I also enjoy exploring new technologies and currently expanding
+my knowledge in **Go, Svelte, React Native, and Agentic AI**.
+
+---
+
+# UI/UX Design
+
+I enjoy designing interfaces that are not only visually appealing,
+but also intuitive, responsive, and easy to use.
+
+### Design
+
+- User Interface Design
+- User Experience Design
+- Wireframing
+- Prototyping
+- User Flow
+- Responsive Design
+- Design Systems
+- Interaction Design
+- Visual Hierarchy
+- Usability
+
+### Design Tool
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+`Figma`
+
+---
+
+# Frontend Development
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,reactnative" />
+
+</div>
+
+### Core Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+
+### Frameworks & Libraries
+
+- React
+- React Native
+- Next.js
+- Svelte
+- Tailwind CSS
+
+### State Management & Data Fetching
+
+- Redux Toolkit
+- React Query
+
+### Forms & Validation
+
+- React Hook Form
+- Zod
+
+### API & Data
+
+- Axios
+- REST API
+- JSON
+
+---
+
+# Backend Development
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,go" />
+
+</div>
+
+### Runtime & Frameworks
+
+- Node.js
+- NestJS
+- Express.js
+- Laravel
+- Go
+
+### Backend Development
+
+- REST API
+- MVC Architecture
+- Modular Architecture
+- Business Logic
+- API Integration
+- Authentication
+- Authorization
+- CRUD
+- Middleware
+
+### Authentication
+
+- JWT
+- OAuth 2.0
+- Passport.js
+- Session Authentication
+
+---
+
+# Database & ORM
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" />
+
+</div>
+
+### Database
+
+- PostgreSQL
+- MySQL
+
+### ORM
+
+- Prisma
+
+### Database Concepts
+
+- Database Design
+- Data Modeling
+- Entity Relationship
+- Relational Database
+- Database Migration
+- Query Optimization
+- ORM
+- Database Integration
+
+---
+
+# Web Security
+
+Interested in developing applications with security considered
+throughout the development lifecycle.
+
+### Security
+
+- OWASP
+- OWASP Top 10
+- Authentication & Authorization
+- JWT Security
+- OAuth 2.0
+- Password Hashing
+- bcrypt
+- Helmet
+- CORS
+- Rate Limiting
+- Input Validation
+- Security Headers
+- API Security
+- Secure Development Practices
+
+---
+
+# DevOps & CI/CD
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,docker" />
+
+</div>
+
+### Tools
+
+- Git
+- GitHub
+- Jenkins
+- Docker
+
+### CI/CD
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  👨‍💻 Full Stack Developer                                    │
-│                                                              │
-│  I build web applications across the entire development     │
-│  lifecycle — from UI/UX design to backend architecture,     │
-│  database integration, security, CI/CD and deployment.       │
-│                                                              │
-│  🎨 Design       → UI/UX & Interface                         │
-│  💻 Frontend     → React / Next.js / Svelte                  │
-│  ⚙️ Backend      → Node.js / NestJS / Express / Laravel / Go │
-│  🗄️ Database     → PostgreSQL / MySQL / Prisma              │
-│  🔐 Security     → OWASP / JWT / OAuth                       │
-│  🚀 DevOps       → Git / Jenkins / Docker / Linux            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+Code
+  ↓
+Git
+  ↓
+GitHub
+  ↓
+Jenkins
+  ↓
+Build
+  ↓
+Test
+  ↓
+Docker
+  ↓
+Deployment
