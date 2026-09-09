@@ -2,7 +2,7 @@
 
 # Hi, I'm Hary Kurniawan
 
-### Full Stack Developer
+### UI UX Designer & Full Stack Developer
 
 **UI/UX • Frontend • Backend • Mobile (React Native)**
 
