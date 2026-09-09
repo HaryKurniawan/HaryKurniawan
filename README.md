@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Hary Kurniawan
+# Hi, I'm Hary Kurniawan
 
 ### Full Stack Developer
 
@@ -32,15 +32,13 @@ Building modern, scalable, and user-focused digital experiences.
 
 I'm a **Computer Science graduate** with a strong interest in
 **Full Stack Development, Frontend Engineering, UI/UX Design,
-Backend Systems, DevOps, Web Security, and Artificial Intelligence.**
+Backend Systems, Mobile React Native.**
 
 I enjoy building applications across the development lifecycle,
 from designing interfaces and user experiences to developing
 frontend applications, backend services, databases, APIs,
 security implementations, and deployment workflows.
 
-I also enjoy exploring new technologies and currently expanding
-my knowledge in **Go, Svelte, React Native, and Agentic AI**.
 
 ---
 
