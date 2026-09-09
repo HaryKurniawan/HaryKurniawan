@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HaryKurniawan/HaryKurniawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hary Kurniawan
 
-Here are some ideas to get you started:
+### Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend • Backend • UI/UX • DevOps**
+
+Building modern, scalable, and user-focused digital experiences.
+
+<br>
+
+<a href="https://github.com/USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Computer Science graduate** with an interest in building
+complete software products — from **UI/UX design and frontend
+development to backend systems, databases, security, and deployment.**
+
+I enjoy turning ideas into real applications while paying attention
+to **clean architecture, usability, performance, and maintainability.**
+
+Currently exploring **Go, Svelte, and Agentic AI** to expand my
+knowledge of modern software development.
+
+```text
+Design → Build → Integrate → Secure → Automate → Deploy
