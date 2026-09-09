@@ -4,8 +4,6 @@
 
 ### UI UX Designer & Full Stack Developer
 
-**UI/UX • Frontend • Backend • Mobile (React Native)**
-
 Building modern, scalable, and user-focused digital experiences.
 
 <br>
