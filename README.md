@@ -15,7 +15,7 @@ Building modern, scalable, and user-focused digital experiences.
 <a href="https://github.com/USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/USERNAME">
+<a href="https://linkedin.com/in/harykurniawan-23">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://harykurniawan.my.id">
